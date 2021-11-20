@@ -4,3 +4,5 @@
 - Essa simples modificação vai transformar todas as classes "container" em "container-fluid"
 - Testado em Opencart 3xxx
 - Feito para Opencart 2x e 3x
+
+![Screenshot](fluid_container_mod_capa.jpg)
